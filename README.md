@@ -20,6 +20,8 @@ $ cd ~/catkin_ws/
 $ catkin_make
 $ cd src
 $ git clone https://github.com/JavierEgido/bevtracking
+$ cd ..
+$ catkin_make
 ```
 
 ## Contact
